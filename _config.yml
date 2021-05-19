@@ -1,0 +1,9 @@
+# Site Settings
+title: Sleeping Portals
+author: 
+  name: Nada
+  email: your-email.com
+ description: "Our Sleeping Portals Blog"
+ 
+ # Build Settings
+ remote_theme jekyll/minima
